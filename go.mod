@@ -4,6 +4,7 @@ go 1.24.3
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
+	github.com/google/uuid v1.6.0
 	github.com/labstack/echo/v4 v4.13.3
 )
 
